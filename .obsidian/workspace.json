@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c7fc2d1e7a3c531c",
+        "id": "b6e8bc4215c6da08",
         "type": "tabs",
         "children": [
           {
-            "id": "364e279a38595df4",
+            "id": "4807c028a172618a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Aula 03/Requisitos.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Inicio",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Aula 03/Requisitos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Aula 03/Requisitos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,11 +125,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Aula 03/Requisitos.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -146,14 +147,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "364e279a38595df4",
+  "active": "4807c028a172618a",
   "lastOpenFiles": [
-    "README.md",
+    "().md",
+    "Aula 03/Requisitos.md",
+    "Aula 02/Hipóteses.md",
     "Aula 02/Prototipação.md",
+    "Aula 01/Problemas.md",
+    "README.md",
+    "4.md",
+    "|Inicio.md",
     "Aula 02/Protótipo Foco.png",
     "Aula 02/Protótipo.png",
-    "Aula 02/4 Hipóteses.md",
-    "Aula 01/3 Problemas.md",
+    "Aula 03",
     "Aula 02",
     "Aula 01"
   ]
