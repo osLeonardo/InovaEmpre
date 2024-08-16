@@ -5,5 +5,5 @@
  3) Falta de um sistema de rastreio de encomendas centralizado e simplificado.
 
 > *Selecionado:* **Opção 03**
-
+---
 [< Início](README) - [Próximo >](Hipóteses)

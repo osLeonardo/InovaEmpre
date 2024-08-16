@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b6e8bc4215c6da08",
+        "id": "bf6e2a284b7fd880",
         "type": "tabs",
         "children": [
           {
-            "id": "4807c028a172618a",
+            "id": "faa04e9e35ea6897",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aula 02/Prototipação.md",
+                "file": "Aula 03/Requisitos.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aula 02/Prototipação.md",
+                "file": "Aula 03/Requisitos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aula 02/Prototipação.md",
+                "file": "Aula 03/Requisitos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aula 02/Prototipação.md"
+                "file": "Aula 03/Requisitos.md"
               }
             }
           }
@@ -147,19 +147,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4807c028a172618a",
+  "active": "faa04e9e35ea6897",
   "lastOpenFiles": [
-    "Aula 02/Protótipo Movimentações.png",
+    "README.md",
+    "Aula 03/Requisitos.md",
     "Aula 02/Prototipação.md",
     "Aula 02/Hipóteses.md",
-    "Aula 03/Requisitos.md",
-    "().md",
+    "Aula 02/Protótipo Foco.png",
     "Aula 01/Problemas.md",
-    "README.md",
+    "Aula 02/Protótipo.png",
+    "Aula 02/Protótipo 1.png",
+    "Aula 02/Protótipo Movimentações.png",
+    "().md",
     "4.md",
     "|Inicio.md",
-    "Aula 02/Protótipo Foco.png",
-    "Aula 02/Protótipo.png",
     "Aula 03",
     "Aula 02",
     "Aula 01"
