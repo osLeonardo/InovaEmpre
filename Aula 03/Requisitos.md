@@ -1,5 +1,3 @@
-- [Apresentação Canva](https://www.canva.com/design/DAGN9jdgKNo/DYShqoxgmHAZmGO4mAMAeA/view?utm_content=DAGN9jdgKNo&utm_campaign=designshare&utm_medium=link&utm_source=editor)
----
 #### Regras de Negócio
 - *RN 01:* No caso de ser informado um documento, identificar se é um CPF ou CNPJ, e então se ele é válido;
 - *RN 02:* No caso de ser informado um documento, o dropdown de transportadora deixa de ser opcional, e passa a ser um campo obrigatório;
@@ -21,5 +19,10 @@
 - *RNF 03:* Identificação do emissor do código para direcionamento da busca;
 - *RNF 04:* Se não identificar o emissor do código, solicitar ao usuário que informe a transportadora;
 - *RNF 05:* RIdentificação de emissor em no máximo 1 seg.
+---
+- [Apresentação Canva](https://www.canva.com/design/DAGN9jdgKNo/DYShqoxgmHAZmGO4mAMAeA/view?utm_content=DAGN9jdgKNo&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+
+![[PitchInovaEmpre.pdf]]
+
 ---
 [< Anterior](Hipóteses)
