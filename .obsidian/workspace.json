@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bf6e2a284b7fd880",
+        "id": "29812b3466b2baf3",
         "type": "tabs",
         "children": [
           {
-            "id": "faa04e9e35ea6897",
+            "id": "4a6dd387e5e08166",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -147,19 +147,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "faa04e9e35ea6897",
+  "active": "4a6dd387e5e08166",
   "lastOpenFiles": [
+    "Aula 04/Modelo.md",
+    "README.md",
+    "().md",
     "Aula 03/Requisitos.md",
     "Aula 02/Hipóteses.md",
+    "Modelo.md",
+    "2024-09-04.md",
+    "Untitled.canvas",
+    "Aula 04",
     "Aula 02/Prototipação.md",
     "Aula 03/PitchInovaEmpre.pdf",
-    "README.md",
     "Aula 02/Protótipo Foco.png",
     "Aula 01/Problemas.md",
     "Aula 02/Protótipo.png",
     "Aula 02/Protótipo 1.png",
     "Aula 02/Protótipo Movimentações.png",
-    "().md",
     "4.md",
     "|Inicio.md",
     "Aula 03",

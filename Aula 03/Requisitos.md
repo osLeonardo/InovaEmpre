@@ -25,4 +25,4 @@
 ![[PitchInovaEmpre.pdf]]
 
 ---
-[< Anterior](Hipóteses)
+[< Anterior](Hipóteses) - [Próximo >](Modelo)

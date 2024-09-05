@@ -1,4 +1,5 @@
 > Este projeto é um compilado do processo de implementação realizado na matéria de Inovação e Empreendedorismo da 7ª Fase do Curso de Ciências da Computação da UNESC com o Prof. Gustavo Bisognin.
+
 ---
 [Iniciar >](Problemas)
 
@@ -13,3 +14,5 @@
 #### Aula 03
 - [[Requisitos]]
 - [PDF Apresentação](PitchInovaEmpre.pdf)
+#### Aula 04
+- [Modelo de Negócios](Modelo)
