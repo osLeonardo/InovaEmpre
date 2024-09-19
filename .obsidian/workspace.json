@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Aula 04/Modelo.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Aula 04/Modelo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Aula 04/Modelo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Aula 04/Modelo.md"
               }
             }
           }
@@ -149,11 +149,12 @@
   },
   "active": "4a6dd387e5e08166",
   "lastOpenFiles": [
-    "Aula 04/Modelo.md",
     "README.md",
+    "Aula 04/Modelo.md",
+    "Aula 02/Hipóteses.md",
+    "Aula 01/Problemas.md",
     "().md",
     "Aula 03/Requisitos.md",
-    "Aula 02/Hipóteses.md",
     "Modelo.md",
     "2024-09-04.md",
     "Untitled.canvas",
@@ -161,7 +162,6 @@
     "Aula 02/Prototipação.md",
     "Aula 03/PitchInovaEmpre.pdf",
     "Aula 02/Protótipo Foco.png",
-    "Aula 01/Problemas.md",
     "Aula 02/Protótipo.png",
     "Aula 02/Protótipo 1.png",
     "Aula 02/Protótipo Movimentações.png",

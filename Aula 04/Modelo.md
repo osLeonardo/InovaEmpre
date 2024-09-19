@@ -1,3 +1,5 @@
+- [Modelo de Negócio Canva](https://www.canva.com/design/DAGRJkPHqWw/W1kLQ5EGpiIcPNzlO9GVpA/edit?utm_content=DAGRJkPHqWw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+---
 #### Modelo de Negócio:
 - B2B (Business To Business)
 ---
