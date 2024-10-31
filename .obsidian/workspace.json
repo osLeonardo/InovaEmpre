@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aula 04/Modelo.md",
+                "file": "Aula X2/TAM, SAM e SOM.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "TAM, SAM e SOM"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aula 04/Modelo.md",
+                "file": "Aula X2/TAM, SAM e SOM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for TAM, SAM e SOM"
             }
           },
           {
@@ -102,10 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aula 04/Modelo.md",
+                "file": "Aula X2/TAM, SAM e SOM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from TAM, SAM e SOM"
             }
           },
           {
@@ -116,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aula 04/Modelo.md"
-              }
+                "file": "Aula X2/TAM, SAM e SOM.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of TAM, SAM e SOM"
             }
           }
         ],
@@ -151,6 +167,14 @@
   "lastOpenFiles": [
     "README.md",
     "Aula 04/Modelo.md",
+    "Aula X2/TAM, SAM e SOM.md",
+    "Aula X3",
+    "Aula X1/Rastreaê Custos 1.xlsx",
+    "Aula X1/Modelo de Negócios.png",
+    "Aula X1/PitchInovaEmpre.pdf",
+    "Aula X1/Rastreaê Custos.xlsx",
+    "Aula X1",
+    "Aula X2",
     "Aula 02/Hipóteses.md",
     "Aula 01/Problemas.md",
     "().md",
@@ -168,7 +192,6 @@
     "4.md",
     "|Inicio.md",
     "Aula 03",
-    "Aula 02",
-    "Aula 01"
+    "Aula 02"
   ]
 }
